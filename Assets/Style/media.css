@@ -115,6 +115,9 @@
   nav ul a {
     display: none;
   }
+  .mobile-menu {
+    display: block;
+  }
   .hero {
     height: auto;
     padding: 11rem 0;

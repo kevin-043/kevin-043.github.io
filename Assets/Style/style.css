@@ -33,6 +33,10 @@ nav {
   z-index: 200;
 }
 
+.mobile-menu {
+  display: none;
+}
+
 .logo {
   color: #2d2e32;
   cursor: pointer;
